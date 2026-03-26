@@ -1,6 +1,5 @@
-Hi, I’m @jocheneeckhoudt, so my name is Jochen Eeckhoudt. 
-I am a computational chemist, currently working at the VUB. 
-You can reach me at jochen.pedro.eeckhoudt@vub.be
+Hi, I'm Jochen Pedro G. Eeckhoudt, @jocheneeckhoudt or Jochen for short. I am a computational chemist, currently working at the Donostia Internatioanl Physics Center for the Quantum Chemistry Development Group. I previously worked for the General Chemistry Research Group at the Vrije Universiteit Brussel. 
+You can reach me at jochen.eeckhoudt@gmail.be
 
 <!---
 jocheneeckhoudt/jocheneeckhoudt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
